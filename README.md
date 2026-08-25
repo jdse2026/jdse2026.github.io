@@ -30,7 +30,7 @@ We welcome **second-year Master’s students and first/second-year PhD students*
 
 All deadlines are 23:59 CEST (UTC+2)
 
-More informations about submissions [here](/jdse-2026/callPapers).
+More informations about submissions [here](./callPapers).
 
 ## Keynotes
 * **François Charton**, Research Engineer at Axiom Math
