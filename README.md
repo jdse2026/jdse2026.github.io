@@ -30,7 +30,7 @@ We welcome **second-year Master’s students and first/second-year PhD students*
 
 All deadlines are 23:59 CEST (UTC+2)
 
-More informations about submissions [here]({{ '/callPapers.md' | relative_url }}).
+More informations about submissions [here]({{ '/callPapers/' | relative_url }}).
 
 ## Keynotes
 * **François Charton**, Research Engineer at Axiom Math
@@ -38,7 +38,7 @@ More informations about submissions [here]({{ '/callPapers.md' | relative_url }}
 * **Eugène Ndiaye**, Independent Researcher
 * **Jerome Lang**, Director of LAMSADE, CNRS, Université Paris-Dauphine PSL
 
-More about speakers [here]({{ '/speakers.md' | relative_url }}).
+More about speakers [here]({{ '/speakers/' | relative_url }}).
 
 ## Organization Committee
 ### Junior Committee
