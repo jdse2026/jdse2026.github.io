@@ -30,7 +30,7 @@ We welcome **second-year Master’s students and first/second-year PhD students*
 
 All deadlines are 23:59 CEST (UTC+2)
 
-More informations about submissions [here](/jdse2026.github.io/callPapers).
+More informations about submissions [here](callPapers.md).
 
 ## Keynotes
 * **François Charton**, Research Engineer at Axiom Math
@@ -38,7 +38,7 @@ More informations about submissions [here](/jdse2026.github.io/callPapers).
 * **Eugène Ndiaye**, Independent Researcher
 * **Jerome Lang**, Director of LAMSADE, CNRS, Université Paris-Dauphine PSL
 
-More about speakers [here](/jdse2026.github.io/speakers).
+More about speakers [here](speakers.md).
 
 ## Organization Committee
 ### Junior Committee
