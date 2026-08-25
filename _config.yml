@@ -11,6 +11,7 @@ kramdown:
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme 
+permalink: pretty
 
 title: [JDSE 2026]
 description: [11th Junior Conference on Data Sciences and Engineering]
