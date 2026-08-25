@@ -22,21 +22,21 @@
 
     <nav id='menu'>
     <ul>
-      <li><a href='/jdse2026.github.io/'>General Information</a></li>
-      <li><a href='/jdse2026.github.io/callPapers'>Call for Papers</a></li>
+      <li><a href='{{ '/' | relative_url }}'>General Information</a></li>
+      <li><a href='{{ '/callPapers/' | relative_url }}'>Call for Papers</a></li>
       <li><a class='dropdown-arrow' href='http://'>Program</a>
         <ul class='sub-menus'>
-          <li><a href='/jdse2026.github.io/speakers'>Keynotes</a></li>
-          <li><a href='/jdse2026.github.io/program'>Schedule</a></li>
+          <li><a href='{{ '/speakers/' | relative_url }}'>Keynotes</a></li>
+          <li><a href='{{ '/program/' | relative_url }}'>Schedule</a></li>
         </ul>
       </li>
       <li><a class='dropdown-arrow' href='http://'>Conference Venue</a>
       <ul class='sub-menus'>
-        <li><a href='/jdse2026.github.io/registration'>Registration</a></li>
-        <li><a href='/jdse2026.github.io/practicalInformations'>Location</a></li>
+        <li><a href='{{ '/registration/' | relative_url }}'>Registration</a></li>
+        <li><a href='{{ '/practicalInformations/' | relative_url }}'>Location</a></li>
       </ul>
     </li>
-      <li><a href='/jdse2026.github.io/organisation'>Organisation Commitee</a></li>
+      <li><a href='{{ '/organisation/' | relative_url }}'>Organisation Commitee</a></li>
    </ul>
 </nav>
 
@@ -47,9 +47,9 @@
     <footer class="site-footer" 
       style="background:#f2f2f2; padding:20px; text-align:center; margin-top:40px; width:100%;">
       <div style="display: flex; justify-content: center; align-items: center; gap: 40px; flex-wrap: wrap;">
-        <img src="/jdse2026.github.io/Images/DATAIA-logo.png" alt="Logo 1" style="height:80px;">
-        <img src="/jdse2026.github.io/Images/IPPARIS_logo.png" alt="Logo 2" style="height:80px;">
-        <img src="/jdse2026.github.io/Images/GS-informatique_logo.png" alt="Logo 3" style="height:80px;">
+        <img src="{{ '/Images/DATAIA-logo.png' | relative_url }}" alt="Logo 1" style="height:80px;">
+        <img src="{{ '/Images/IPPARIS_logo.png' | relative_url }}" alt="Logo 2" style="height:80px;">
+        <img src="{{ '/Images/GS-informatique_logo.png' | relative_url }}" alt="Logo 3" style="height:80px;">
       </div>
       <p style="margin-top: 15px; font-size: 0.9em;">&copy; 2025 JDSE Conference. All rights reserved.</p>
       <p style="margin-top: 15px; font-size: 0.9em;">&copy; This conference is supported by the institut <a href="https://www.dataia.eu/"> DATAIA </a> </p>
