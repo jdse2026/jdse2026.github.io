@@ -30,7 +30,10 @@ We welcome **second-year Master’s students and first/second-year PhD students*
 
 All deadlines are 23:59 CEST (UTC+2)
 
-More informations about submissions [here]({{ '/callPapers/' | relative_url }}).
+## Practical Information
+* Location : **Henri Moissan building**, 17 Avenue des Sciences, 91190 Orsay (Amphi Olivier Kahn)
+
+Register [here]({{ '/registration/' | relative_url }}).
 
 ## Keynotes
 * **François Charton**, Research Engineer at Axiom Math
