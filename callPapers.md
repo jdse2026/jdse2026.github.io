@@ -4,8 +4,11 @@
   Submission Deadline: <strong>28 August 2026</strong>
 </p>
 <p align="center">
+  <i>Submission is over.</i>
+</p>
+<p align="center">
   <a href="https://openreview.net/group?id=JDSE/2026/Conference">
-    <button style="background-color: #C4006A; color: white; border: none; padding: 10px 20px; border-radius: 6px;"><strong>Submit</strong></button>
+    <button style="background-color: #b983a0; color: white; border: none; padding: 10px 20px; border-radius: 6px;"><strong>Go to OpenReview</strong></button>
   </a>
 </p>
 
