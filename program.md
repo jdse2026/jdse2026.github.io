@@ -3,11 +3,11 @@
 
 ## Day 1 : Thursday 24th of September
 
-<table style="font-size: 12px;">
+<table style="font-size: 13px;">
   <thead>
     <tr style="background-color: #6b6ec5; color: #FFFFFF;">
       <th>Time</th>
-      <th></th>
+      <th>Session</th>
       <th>Details</th>
     </tr>
   </thead>
@@ -96,11 +96,11 @@
 | **12:35 – 12:40** | Closing | |
 | **12:40 – 14:00** | Lunch Break | | -->
 
-<table style="font-size: 12px;">
+<table style="font-size: 13px;">
   <thead>
     <tr style="background-color: #6b6ec5; color: #FFFFFF;">
-      <th>Time</th>
-      <th></th>
+      <th style="width: 1%; white-space: nowrap;">Time</th>
+      <th>Session</th>
       <th>Details</th>
     </tr>
   </thead>
