@@ -3,9 +3,9 @@
 
 ## Day 1 : Thursday 24th of September
 
-<table class="bigtable">
+<table style="font-size: 12px;">
   <thead>
-    <tr style="background-color: #6b6ec5;">
+    <tr style="background-color: #6b6ec5; color: #FFFFFF;">
       <th>Time</th>
       <th></th>
       <th>Details</th>
@@ -96,9 +96,9 @@
 | **12:35 – 12:40** | Closing | |
 | **12:40 – 14:00** | Lunch Break | | -->
 
-<table>
+<table style="font-size: 12px;">
   <thead>
-    <tr style="background-color: #6b6ec5;">
+    <tr style="background-color: #6b6ec5; color: #FFFFFF;">
       <th>Time</th>
       <th></th>
       <th>Details</th>
