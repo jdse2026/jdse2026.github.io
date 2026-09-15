@@ -6,8 +6,8 @@
 <table style="font-size: 13px;">
   <thead>
     <tr style="background-color: #6b6ec5; color: #FFFFFF;">
-      <th>Time</th>
-      <th>Session</th>
+      <th style="width: 15%;">Time</th>
+      <th style="width: 35%;">Session</th>
       <th>Details</th>
     </tr>
   </thead>
@@ -100,7 +100,7 @@
   <thead>
     <tr style="background-color: #6b6ec5; color: #FFFFFF;">
       <th style="width: 15%;">Time</th>
-      <th>Session</th>
+      <th style="width: 35%;">Session</th>
       <th>Details</th>
     </tr>
   </thead>
