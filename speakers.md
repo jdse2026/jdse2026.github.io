@@ -26,7 +26,7 @@ He completed his PhD in Lyon under the supervision of Nicolas Duchateau and Patr
 * **Personal website**: [https://www.lamsade.dauphine.fr/%7Elang/index.html](https://www.lamsade.dauphine.fr/%7Elang/index.html)
 
 
-## **Eugène Ndiaye**
+## **Eugene Ndiaye**
 <span style="color: #3B3FA0;"><em>ML Research Scientist</em></span><br><br>
 
 * **Title**: *Conformal Prediction through the Lens of Optimal Transport*
