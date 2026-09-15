@@ -7,7 +7,7 @@
   <thead>
     <tr style="background-color: #6b6ec5; color: #FFFFFF;">
       <th style="width: 14%;">Time</th>
-      <th style="width: 40%;">Session</th>
+      <th style="width: 35%;">Session</th>
       <th>Details</th>
     </tr>
   </thead>
@@ -100,7 +100,7 @@
   <thead>
     <tr style="background-color: #6b6ec5; color: #FFFFFF;">
       <th style="width: 14%;">Time</th>
-      <th style="width: 40%;">Session</th>
+      <th style="width: 35%;">Session</th>
       <th>Details</th>
     </tr>
   </thead>
