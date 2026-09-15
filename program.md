@@ -99,7 +99,7 @@
 <table style="font-size: 13px;">
   <thead>
     <tr style="background-color: #6b6ec5; color: #FFFFFF;">
-      <th style="white-space: nowrap;">Time</th>
+      <th style="width: 10%;">Time</th>
       <th>Session</th>
       <th>Details</th>
     </tr>
