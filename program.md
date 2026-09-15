@@ -3,7 +3,7 @@
 
 ## Day 1 : Thursday 24th of September
 
-<table>
+<table class="bigtable">
   <thead>
     <tr style="background-color: #6b6ec5;">
       <th>Time</th>
