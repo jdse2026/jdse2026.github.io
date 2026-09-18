@@ -19,12 +19,14 @@
     </tr>
     <tr>
       <td><strong>09:15 – 09:30</strong></td>
-      <td>Opening speech</td>
+      <td>Opening speech<br><small style="color: #aaa;"><em>Chair : Quentin Bouniot, Julien Signoles</em></small></td>
       <td></td>
     </tr>
     <tr>
       <td><strong>09:30 – 10:10</strong></td>
-      <td>Keynote talk: <br><strong>Maxime Di Folco</strong>, Associate Professor at Télécom Paris</td>
+      <td>Keynote talk: <br>
+      <strong>Maxime Di Folco</strong>, Associate Professor at Télécom Paris<br>
+      <small style="color: #aaa;"><em>Chair : Ikhlas Enaieh</em></small></td>
       <td><em>Multimodal Representation Learning for Clinical Decision Support from Vision and Tabular Data</em></td>
     </tr>
     <tr>
@@ -39,7 +41,8 @@
     </tr>
     <tr>
       <td><strong>10:55 – 12:10</strong></td>
-      <td><em>Student presentations</em></td>
+      <td><em>Student presentations</em><br>
+      <small style="color: #aaa;"><em>Chair : Victor Manach</em></small></td>
       <td>
         <ul>
           <li><em>STRABLE: Benchmarking Tabular Machine Learning with Strings</em> -  Gioia Blayer, Myung Jun Kim, Félix Lefebvre, Lennart Purucker, Alan Arazi, Eilam Shapira, Roi Reichart, Frank Hutter, Marine Le Morvan, David Holzmüller, Gaël Varoquaux</li>
@@ -52,7 +55,9 @@
     </tr>
     <tr>
       <td><strong>12:10 – 12:40</strong></td>
-      <td>Keynote talk: <br><strong>Eugene Ndiaye</strong>, ML Research Scientist</td>
+      <td>Keynote talk: <br>
+      <strong>Eugene Ndiaye</strong>, ML Research Scientist<br>
+      <small style="color: #aaa;"><em>Chair : Ikhlas Enaieh</em></small></td>
       <td><em>Conformal Prediction through the Lens of Optimal Transport</em></td>
     </tr>
     <tr style="background-color: #D6DCF5;">
@@ -62,12 +67,15 @@
     </tr>
     <tr>
       <td><strong>14:00 – 14:30</strong></td>
-      <td>Keynote talk: <br><strong>François Charton</strong>, Research Engineer at Axiom Math</td>
+      <td>Keynote talk: <br>
+      <strong>François Charton</strong>, Research Engineer at Axiom Math<br>
+      <small style="color: #aaa;"><em>Chair : Jules Soria</em></small></td>
       <td><em>Generative models for combinatorics</em></td>
     </tr>
     <tr>
       <td><strong>14:30 – 15:45</strong></td>
-      <td><em>Student presentations</em></td>
+      <td><em>Student presentations</em><br>
+      <small style="color: #aaa;"><em>Chair : Julian Agudelo</em></small></td>
       <td>
         <ul>
           <li><em>Bayesian reduced-order model for uncertainty-aware forecast of noisy dynamical systems</em> -  Federico Risi, Salvatore Iavarone, Bérengère Podvin</li>
@@ -80,7 +88,8 @@
     </tr>
     <tr>
       <td><strong>15:45 – 17:30</strong></td>
-      <td>Student poster session &amp; Coffee break</td>
+      <td>Student poster session &amp; Coffee break<br>
+      <small style="color: #aaa;"><em>Chair : Julian Agudelo</em></small></td>
       <td></td>
     </tr>
   </tbody>
@@ -128,7 +137,8 @@
     </tr>
     <tr>
       <td><strong>09:15 – 10:15</strong></td>
-      <td><em>Student presentations</em></td>
+      <td><em>Student presentations</em><br>
+      <small style="color: #aaa;"><em>Chair : Judith Coutrot</em></small></td>
       <td>
         <ul>
           <li><em>Dynamic Exogenous Context for Implicit Neural Representations: A Continuous Alternative to LSTMs in Time Series Forecasting</em> -  Jessy Azizi, Vincent Guigue, Sophie Martin</li>
@@ -150,7 +160,8 @@
     </tr>
     <tr>
       <td><strong>11:00 – 11:45</strong></td>
-      <td><em>Student presentations</em></td>
+      <td><em>Student presentations</em><br>
+      <small style="color: #aaa;"><em>Chair : Victor Manach</em></small></td>
       <td>
         <ul>
           <li><em>Hybrid Evaluation and Reconciliation of Graph and Text Evidence in Heterogeneous Data Lakes</em> -  Sarra Tlili, Benoît Groz, Pierre-Henri Paris, Fatiha Saïs</li>
@@ -161,12 +172,15 @@
     </tr>
     <tr>
       <td><strong>11:45 – 12:25</strong></td>
-      <td>Keynote talk: <br><strong>Jerome Lang</strong>, Director of LAMSADE, CNRS</td>
+      <td>Keynote talk: <br>
+      <strong>Jerome Lang</strong>, Director of LAMSADE, CNRS<br>
+      <small style="color: #aaa;"><em>Chair : Jules Soria</em></small></td>
       <td><em>AI, computational social choice, and democracy: ten little talks (a tribute to Agatha Christie)</em></td>
     </tr>
     <tr>
       <td><strong>12:25 – 12:35</strong></td>
-      <td>Best poster and best presentation awards</td>
+      <td>Best poster and best presentation awards<br>
+      <small style="color: #aaa;"><em>Chair : Ikhlas Enaieh</em></small></td>
       <td></td>
     </tr>
     <tr>
