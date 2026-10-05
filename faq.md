@@ -6,7 +6,7 @@
     <li><span style="color: #3B3FA0;"><em><strong>What work can I submit?</strong></em></span></li>
     We welcome new results, including ongoing research and extensions of previously published work.<br><br>
     <li><span style="color: #3B3FA0;"><em><strong>What is the required submission format?</strong></em></span></li>
-    Submit an extended abstract of up to 3 pages, including references, using the Springer LNCS template, through OpenReview. For full submission guidelines, see the call for paper [here]({{ '/callPapers/' | relative_url }}).<br><br>
+    Submit an extended abstract of up to 3 pages, including references, using the Springer LNCS template, through OpenReview. For full submission guidelines, see the call for paper <a href="{{ '/callPapers/' | relative_url }}">here</a>.<br><br>
     <li><span style="color: #3B3FA0;"><em><strong>Can I attend without submitting an abstract?</strong></em></span></li>
     Yes. Registration is free but mandatory for everyone, whether or not you submit an abstract.<br><br>
     <li><span style="color: #3B3FA0;"><em><strong>What should I prepare for an oral presentation?</strong></em></span></li>
